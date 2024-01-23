@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15af1194-3e55-4ce0-b99d-6369501f4435" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kahraman/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kahraman/rest/webservices/restfulwebservices/exception/CustomizedResponseEntityExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kahraman/rest/webservices/restfulwebservices/exception/ErrorDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kahraman/rest/webservices/restfulwebservices/exception/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kahraman/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kahraman/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kahraman/rest/webservices/restfulwebservices/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kahraman/rest/webservices/restfulwebservices/user/UserDaoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kahraman/rest/webservices/restfulwebservices/user/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kahraman/rest/webservices/restfulwebservices/user/UserResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kahraman/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kahraman/rest/webservices/restfulwebservices/RestfulWebServicesApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kahraman/rest/webservices/restfulwebservices/exception/CustomizedResponseEntityExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kahraman/rest/webservices/restfulwebservices/exception/ErrorDetails.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kahraman/rest/webservices/restfulwebservices/exception/UserNotFoundException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kahraman/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kahraman/rest/webservices/restfulwebservices/helloworld/HelloWorldController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kahraman/rest/webservices/restfulwebservices/user/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kahraman/rest/webservices/restfulwebservices/user/UserDaoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kahraman/rest/webservices/restfulwebservices/user/UserNotFoundException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kahraman/rest/webservices/restfulwebservices/user/UserResource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/restful-web-services-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/restful-web-services-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.kahraman.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.kahraman.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/kahraman/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.class" afterDir="false" />
-    </list>
+    <list default="true" id="15af1194-3e55-4ce0-b99d-6369501f4435" name="Changes" comment="first-commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,28 +38,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven.restful-web-services [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.restful-web-services [install].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Spring Boot.RestfulWebServicesApplication.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/abdullahkahraman/Desktop/Projects/restful-web-services&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Maven.restful-web-services [clean].executor": "Run",
+    "Maven.restful-web-services [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.RestfulWebServicesApplication.executor": "Debug",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/abdullahkahraman/Desktop/Projects/restful-web-services",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="RestfulWebServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -130,7 +92,33 @@
       <workItem from="1705834224769" duration="1863000" />
       <workItem from="1706046899571" duration="3110000" />
       <workItem from="1706050060915" duration="228000" />
+      <workItem from="1706050295871" duration="600000" />
     </task>
+    <task id="LOCAL-00001" summary="first-commit">
+      <option name="closed" value="true" />
+      <created>1706050331310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706050331310</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first-commit">
+      <option name="closed" value="true" />
+      <created>1706050352994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706050352994</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first-commit">
+      <option name="closed" value="true" />
+      <created>1706050420173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706050420173</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first-commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first-commit" />
   </component>
 </project>
