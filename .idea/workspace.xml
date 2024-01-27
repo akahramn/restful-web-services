@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15af1194-3e55-4ce0-b99d-6369501f4435" name="Changes" comment="first-commit">
+    <list default="true" id="15af1194-3e55-4ce0-b99d-6369501f4435" name="Changes" comment="added springdoc-openapi-starter-webmvc-ui">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +96,9 @@
       <workItem from="1706046899571" duration="3110000" />
       <workItem from="1706050060915" duration="228000" />
       <workItem from="1706050295871" duration="665000" />
-      <workItem from="1706221297206" duration="612000" />
+      <workItem from="1706221297206" duration="1754000" />
+      <workItem from="1706395268036" duration="30000" />
+      <workItem from="1706395310200" duration="507000" />
     </task>
     <task id="LOCAL-00001" summary="first-commit">
       <option name="closed" value="true" />
@@ -129,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706050921958</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <option name="closed" value="true" />
+      <created>1706222015511</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706222015511</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added springdoc-openapi-starter-webmvc-ui">
+      <option name="closed" value="true" />
+      <created>1706222382677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706222382677</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,17 +167,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first-commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first-commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/kahraman/rest/webservices/restfulwebservices/user/UserResource.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="." />
+    <MESSAGE value="added springdoc-openapi-starter-webmvc-ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="added springdoc-openapi-starter-webmvc-ui" />
   </component>
 </project>
